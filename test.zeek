@@ -21,4 +21,3 @@ event zeek_done()
         if (|p[k]|>=3)
             print fmt("%s is a proxy", k);
 }
-© 2020 GitHub, Inc.
